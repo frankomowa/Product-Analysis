@@ -44,8 +44,8 @@ A comprehensive data analysis was conducted using Tableau to evaluate app perfor
 ### KPIs for App Performance
 The following KPIs were generated and visualised using Tableau:
 
-- **Installs:** Measured the total number of times the app was downloaded and installed on a device.
-- **Sign Ups:** Counts of users who have registered or created an account on the app up to the specified date.
+- **Installs:** Measured the total number of times the app was downloaded.
+- **Sign Ups:** Counts of users who have registered or created an account on the app.
 - **Sign Up Rate:** Percentage of installed users who eventually signed up on the app.
 - **Uninstalls:** Measured the total number of times the app was removed from devices.
 - **App churn Rate:** Percentage of users who uninstalled the app from their devices.
@@ -72,8 +72,8 @@ This section focuses on generating key engagement metrics
 
 #### Engagement Metrics
 - Engagement metrics reveal a favourable growth trend over the previous months. Key observations include:
-  - An average daily active user (DAU) increase of 6.10%
-  - A user session increase of 2.7%
+  - An average daily app user (DAU) increase of 6.10%
+  - A user session length increase of 2.7%
   - A transaction volume increase of 6.3%
   
 - The majority of installed users are Android users, totalling 1,164,619, while iOS users account for 817,188. Analysis indicates that Android users exhibit higher activity levels within the app and engage in more transactions. In contrast, iOS users tend to spend more time interacting with app features.
